@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+}
+    .sum {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+h1 {
+    text-align: center;
+    color: rgb(74, 1, 224);
+    font-size: 400;
+    font-family: 'Poppins', sans-serif;
+
+}
+button {
+    float: right;
+    position: relative;
+    bottom: 58px;
+    background-color: blue;
+    color: white;
+    padding: 8px 23px;
+    border: none;
+    border-radius: 5px;
+}
+form {
+    text-align: center;
+    width: 100%;
+}
+.contact {
+    background-color: rgb(249, 249, 249);
+    padding: 5px;
+    margin: 1px;
+    
+}
+.register {
+    text-align: center; 
+    font-size: 32px;  
+    font-weight: 400;
+    margin-bottom: 0px;
+}
+.time {
+    text-align: center; 
+    margin-top: 0px;  
+
+}
+.terms {
+    color: green;
+    font-size: 17px;
+}
+#submit {
+    background-color: blue;
+    color: white;
+    padding: 10px 120px;
+    border-radius: 5px;
+    border: none;
+    font-size: 17px;
+    text-align: center;
+    margin-left: 25px;
+    margin-right: 25pxpx;
+    
+}
+#submit:hover {
+    background-color: rgb(74, 1, 224);
+    cursor: pointer;
+}
+.general {
+    
+    background-color: white;
+    border: 1px solid rgb(236, 231, 231);
+    border-radius: 5px;
+    box-shadow: 2px 2px 0.5px rgb(236, 231, 231);
+    margin: 50px 100px 200px 530px ;
+    padding: 30px;
+    width: fit-content;
+    
+    box-sizing: border-box;
+}
+.input {
+    text-align: left;
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 30px;
+    
+    
+}
+.john {
+    padding: 5px 100px 5px 5px; 
+}
+.emails {
+    padding: 5px 100px 5px 5px;
+}
+.pwd {
+    padding: 5px 100px 5px 5px;
+}
+.feedback {
+    float: right;
+    position: relative;
+    bottom: 60px;
+    color: rgb(74, 1, 224);
+    font-size: 20px;
+    font-weight: 800;
+    margin-right: 300px;
+}
+footer {
+    background-color: rgb(249, 249, 249);
+    padding: 5px;
+    cursor: pointer;
+
+}
+.copy {
+    font-size: 20px;   
+    margin-left: 200px;
+}
