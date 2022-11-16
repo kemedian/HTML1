@@ -1,0 +1,30 @@
+body {
+    background-color: lightblue;
+    margin: 20px 50px;
+}
+.form {
+    background-color: blue;
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 20px;
+    color: white;
+    
+}
+.form:hover {
+    box-shadow: 20px 20px 50px black ;
+}
+#submit {
+    border: none;
+    padding: 10px 20px;
+    background-color: lightblue;
+    color: blue;
+    border-radius: 10px;
+    font-weight: 600;
+
+}
+#submit:hover {
+background-color: red;
+color: white;
+}
